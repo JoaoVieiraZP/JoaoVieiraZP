@@ -36,14 +36,6 @@ Sou um desenvolvedor de software apaixonado por resolver problemas reais.
 
 ---
 
-## 📊 Estatísticas
-
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=JoaoVieiraZP&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVieiraZP&layout=compact&theme=dark)
-
----
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-vieira-pereira-7aab772b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
