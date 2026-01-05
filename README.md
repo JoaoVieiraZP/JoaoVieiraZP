@@ -11,10 +11,10 @@
   <div align="left" style="width: 80%; margin: auto;">
     <h3>👋 Sobre Mim</h3>
     <p>
-      Sou <b>João Vieira</b>, Estagiário em Análise e Desenvolvimento de Sistemas. Minha trajetória é marcada pela busca de eficiência: comecei automatizando processos com <b>Python</b> e hoje dedico minha carreira ao desenvolvimento de software corporativo robusto.
+      Sou <b>João Vieira</b>, Estagiário em Análise e Desenvolvimento de Sistemas. Minha trajetória é marcada pela busca de eficiência: comecei automatizando processos com <b>Python</b> e hoje dedico minha carreira ao desenvolvimento de software corporativo usando C#.
     </p>
     <p>
-      No meu dia a dia profissional, utilizo o ecossistema <b>.NET</b> e o <b>JetBrains Rider</b> para construir aplicações modulares com o <b>ABP Framework</b>, sempre focado em <b>Clean Architecture</b> e <b>DDD</b>.
+      No meu dia a dia profissional, utilizo o ecossistema <b>.NET</b> e o <b>JetBrains Rider</b> para construir aplicações modulares com o <b>ABP Framework</b>, buscando focar em <b>Clean Architecture</b> e <b>DDD</b>.
     </p>
     <p>
       Além do software, sou entusiasta de <b>IoT</b>, integrando hardware (ESP32/Arduino) para criar soluções de automação residencial.
@@ -56,7 +56,7 @@
 
 | Projeto | Stack | Detalhes |
 | :--- | :--- | :--- |
-| **Estágio Atual** | `.NET` `ABP` `Blazor` | Desenvolvimento de sistemas corporativos utilizando **Rider**, focando em arquitetura modular e manutenção de código escalável. |
+| **Estágio Atual** | `.NET` `ABP` `Blazor` | Desenvolvimento de sistemas corporativos utilizando **C#**, focando em arquitetura modular e manutenção de código escalável. |
 | **AutoLabel System** | `Python` `Tkinter` | Solução desktop para chão de fábrica que automatiza a formatação de etiquetas para impressoras térmicas (TANCA). |
 | **Crypto Watch** | `Python` `Streamlit` | Dashboard financeiro que consome APIs REST para análise de variação de criptoativos em tempo real. |
 | **Smart Access** | `C++` `ESP32` `IoT` | Protótipo de segurança residencial utilizando leitores RFID RC522 integrados a microcontroladores. |
